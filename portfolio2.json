@@ -1,7 +1,7 @@
 {
   "name": "Krantik M. Deogade",
   "label": "Intraday Trader",
-  "image_path": "portfolio_media/myprofilephoto.jpg",
+  "image_path": "portfolio_media/profile.jpg",
   "contact": {
     "email": "krantikdeogade21@gmail.com",
     "phone": "+91-9673881335",
@@ -60,11 +60,11 @@
       ],
       "images": [
         {
-          "img_path": "images/1_scren.png",
+          "img_path": "images/curntyr.png",
           "caption": "Current F.Y Result screenshot"
         },
         {
-          "img_path": "images/Screenshot.png",
+          "img_path": "images/prevyr.png",
           "caption": "Previous F.Y Result screenshot"
         }
       ]
