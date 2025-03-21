@@ -1,0 +1,124 @@
+{
+  "name": "Krantik M. Deogade",
+  "label": "Intraday Trader",
+  "image_path": "/home/krantik/portfolio/portfolio_media/myprofilephoto.jpg",
+  "contact": {
+    "email": "krantikdeogade21@gmail.com",
+    "phone": "+91-9673881335",
+    "location": "Bhadrawati,Maharashtra, India"
+  },
+  "summary": "Passionate trader with a consistent track record in intraday option selling, achieving a 30% return on capital. Skilled in technical analysis, risk management, Currently enhancing data analysis skills with and algorithmic trading using Python Pandas and Matplotlib.",
+  "url": "file:///home/krantik/Desktop/index.html",
+  "social_links": [
+    {
+      "label": "Personal Website",
+      "url": "file:///home/krantik/Desktop/index.html",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "First Social",
+      "url": "www.linkedin.com/in/krantik-deogade-80b23012a",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/kratikd",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "NSE",
+      "position": "Intraday Trader",
+      "url": "https://sample.com",
+      "start_date": "24/04/2020",
+      "end_date": "14/11/2025",
+      "summary": "Short summary",
+      "highlights": [
+        "3+ years of active trading in index options",
+        "Developed and optimized an intraday option selling strategy.",
+        "Maintained disciplined risk management with a max 1-2 % per day",
+        "Backtested strategies using Python to refine edge in the market."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Result current_f.y",
+      "summary": "Short summary about my current financial year result",
+      "url": "https://sample.com",
+      "highlights": [
+        "Total P&L:59,435",
+        "Best day :",
+        "Monday,14ᵗʰOct 2024:₹15,868",
+        "Best month :",
+        "Jun 2024:₹45,498",
+        "Biggest loss day :",
+        "Wednesday, 15ᵗʰMay 2024:₹-9,523",
+        "Biggest loss month :",
+        "Apr 2024:₹-17,665"
+      ],
+      "images": [
+        {
+          "img_path": "images/Screenshot_78.png",
+          "caption": "Current F.Y Result screenshot"
+        },
+        {
+          "img_path": "images/Screenshot_79.png",
+          "caption": "Previous F.Y Result screenshot"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "DR.Rajendra Gode institute of technology and research",
+      "location": "Amravati, Maharashtra, India",
+      "url": "https://sample.com",
+      "degrees": ["Bachlores of engineering in mechanical"],
+      "cgpa": "7.14",
+      "graduation_date": "01/01/2016"
+    },
+    {
+      "institution": "Shri sai polytechnic",
+      "location": "Chandrapur, Maharashtra, India",
+      "url": "https://sample.com",
+      "diploma": ["Diploma in information technology"],
+      "gpa_cumulative": "6.14",
+      "graduation_date": "01/01/2013"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Intraday Trading",
+      "proficiency": 75,
+      "proficiency_label": "Advanced Level"
+    },
+    {
+      "name": "Option Selling",
+      "proficiency": 60,
+      "proficiency_label": "Intermediate Level"
+    },
+    {
+      "name": "Risk Management",
+      "proficiency": 60,
+      "proficiency_label": "Intermediate Level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading Books",
+      "summary": "Love to read books self help books and non fiction books"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Marathi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Beginner level"
+    }
+  ]
+}
